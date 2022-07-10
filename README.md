@@ -12,29 +12,17 @@ Throughout this project, we learned how to create map layers, visual customizati
 * Adding popup info box
 * Plotting different points, multiple points, lines, polygons
 
-# Examples
-
-**Map Style = Dark with circle marker and popup info box**
-
-![darkpop]
-
-**Map Style = Navigation Preview Light with dashed line mapping (5) location points**
-
-![dashed]
-
 # Challenge Submission 
 
 
 **Deliverable 1: Add Tectonic Plate Data**
 
-![tect]
+![alt text](https://github.com/tarini-mi7/Mapping_Earthquakes/blob/main/images/tectonic.png)
 
 **Deliverable 2: Add Major Earthquake Data**
 
-![MajorEQ]
+![alt text](https://github.com/tarini-mi7/Mapping_Earthquakes/blob/main/images/major%20earthquake.png)
 
 **Deliverable 3: Add an Additional Map**
 
-![AddMap]
-
-***Interactive map can be access through this [link].***
+![alt text](https://github.com/tarini-mi7/Mapping_Earthquakes/blob/main/images/Screenshot%202022-07-10%20130123.png)
